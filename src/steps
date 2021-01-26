@@ -1,0 +1,4 @@
+1# Get TMDB API Key 
+
+0ba799fc290878a3fd7167c67feb93a6 :::: TMDB Api key
+https://api.themoviedb.org/3/movie/550?api_key=0ba799fc290878a3fd7167c67feb93a6

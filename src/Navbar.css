@@ -1,0 +1,22 @@
+.navbar {
+  position: fixed;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  top: 0;
+  width: 100%;
+  padding: 20px 40px;
+  z-index: 1;
+  transition: all 0.5s ease-in;
+
+  /* border: 1px solid red; */
+}
+.dark--navbar {
+  background-color: #111;
+  transition: all 0.5s ease-in;
+}
+.navbar__logo {
+  max-height: 30px;
+  /* width: 100%; */
+  object-fit: contain;
+}
